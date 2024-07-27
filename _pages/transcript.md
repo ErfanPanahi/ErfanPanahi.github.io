@@ -11,8 +11,8 @@ modified: 2016-06-06
 
 *College of Electrical and Computer Engineering*
 
-Official Transcript (English - Spring 2024): [Download](/files/Official Transcript - Erfan Panahi.pdf))
+Official Transcript (English - Spring 2024): [Download](/files/OfficialTranscript-ErfanPanahi.pdf)
 
-Unofficial Transcipt (English - Fall 2023): [Download](/files/Transcript of University Grades _ Summer 2023.pdf))
+Unofficial Transcipt (English - Fall 2023): [Download](/files/TranscriptofUniversityGrades_Summer2023.pdf)
 
-Unofficial Transcipt (Farsi - Winter 2023): [Download](/files/Farsi_Transcrpit_NU.pdf))
+Unofficial Transcipt (Farsi - Winter 2023): [Download](/files/Farsi_Transcrpit_NU.pdf)
