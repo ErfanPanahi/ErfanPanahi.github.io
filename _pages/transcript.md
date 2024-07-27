@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Transcipt"
 permalink: /transcript/
 author_profile: true
