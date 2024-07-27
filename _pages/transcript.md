@@ -1,8 +1,11 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+layout: archive
+title: "Transcipt"
+permalink: /transcript/
+author_profile: true
+
 ---
+
 
 {% include base_path %}
 {% include toc %}
