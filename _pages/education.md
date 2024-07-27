@@ -1,4 +1,11 @@
-
+---
+permalink: /education
+title: "Education"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 
 ## Bachelor's Degree (Sep. 2019 – Feb. 2024)
