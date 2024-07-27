@@ -11,4 +11,4 @@ redirect_from:
 
 ## Download
 
-To Download my CV, click [here](/files/ErfanPanahi_CV_Fall_2023.pdf)
+To download my CV, click [here](/files/ErfanPanahi_CV_Fall_2023.pdf)
