@@ -1,5 +1,5 @@
 ---
-title: "Transcipt"
+title: "Transcript"
 permalink: /transcript/
 
 ---
