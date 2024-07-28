@@ -24,7 +24,7 @@ author:
   avatar           : "Erfan.jpg"
   name             : "Erfan Panahi"
   pronouns         : # "he/him"  
-  bio              : "B.Sc. in Electrical Engineering at University of Tehran"
+  bio              : # "B.Sc. in Electrical Engineering at University of Tehran"
   location         : "Tehran, Iran"
   #employer         : "University of Tehran"
   #uri              : # URL
