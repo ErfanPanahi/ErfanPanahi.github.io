@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Erfan Panahi / Research Assistant"
+title                    : "Erfan Panahi | Research Assistant"
 title_separator          : "-"
 name                     : &name "Erfan Panahi"
-description              : &description "B.Sc. in Electrical Engineering at University of Tehran"
-url                      : #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : # &description "B.Sc. in Electrical Engineering at University of Tehran"
+url                      : # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ErfanPanahi.github.io"
 
