@@ -5,9 +5,6 @@ permalink: /transcript/
 ---
 
 
-{% include base_path %}
-{% include toc %}
-
 ## Bachelor of Science in Electrical Engineering (Sep. 2019 – Feb. 2024)
 
 ### **[University of Tehran](https://ut.ac.ir/en) | [College of Electrical and Computer Engineering](https://ece.ut.ac.ir/en/ece)**
