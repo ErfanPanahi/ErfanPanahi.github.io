@@ -11,4 +11,4 @@ redirect_from:
 
 ## Download
 
-To download my CV, click [here](/files/ErfanPanahi_CV_Fall_2023.pdf)
+Last Update: Fall 2023    |    [![Static Badge](https://img.shields.io/badge/Download-red)](/files/ErfanPanahi_CV_Fall_2023.pdf)
