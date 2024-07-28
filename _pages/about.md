@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "Portfolio"
+## title: "Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-#
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=30&duration=2000&pause=6000&color=231EFF&width=750&height=45&lines=Erfan+Panahi)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=25&duration=2000&pause=3000&color=0E0C5A&width=750&height=40&lines=Research+Assistant+;B.Sc.+in+Electrical+Engineering+at+University+of+Tehran)](https://git.io/typing-svg)
