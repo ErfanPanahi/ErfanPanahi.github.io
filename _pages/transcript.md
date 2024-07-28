@@ -12,8 +12,8 @@ permalink: /transcript/
 
 *College of Electrical and Computer Engineering*
 
-**Official Transcript** *(English - Spring 2024)*: [Download](/files/OfficialTranscript-ErfanPanahi.pdf)
+**Official Transcript** *(English - Spring 2024)*:  [![Static Badge](https://img.shields.io/badge/Download-flat)](/files/OfficialTranscript-ErfanPanahi.pdf)
 
-**Unofficial Transcipt** *(English - Fall 2023)*: [Download](/files/TranscriptofUniversityGrades_Summer2023.pdf)
+**Unofficial Transcipt** *(English - Fall 2023)*:  [![Static Badge](https://img.shields.io/badge/Download-blue)](/files/TranscriptofUniversityGrades_Summer2023.pdf)
 
-**Unofficial Transcipt** *(Farsi - Winter 2023)*: [Download](/files/Farsi_Transcrpit_NU.pdf)
+**Unofficial Transcipt** *(Farsi - Winter 2023)*:  [![Static Badge](https://img.shields.io/badge/Download-violet)](/files/Farsi_Transcrpit_NU.pdf)
