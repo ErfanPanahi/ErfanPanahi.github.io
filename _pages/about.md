@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=30&duration=2000&pause=6000&color=231EFF&width=750&height=45&lines=Erfan+Panahi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=25&duration=2000&pause=3000&color=0E0C5A&width=750&lines=Research+Assistant+;B.Sc.+in+Electrical+Engineering+at+University+of+Tehran)](https://git.io/typing-svg)
+
 ## About me
 
 I am Erfan Panahi, a senior BSc Electrical Engineering student at the [University of Tehran](https://ut.ac.ir/en). My journey into electrical engineering began in my childhood, accompanying my father, a refrigerator repairman. At the age of 8, I was captivated by the intricacies of the electrical board within a refrigerator, sparking a lasting curiosity. Throughout high school, my active involvement with my father, coupled with a keen interest in electrical circuits, mathematics, and proofs, prompted me to pursue a mathematical-physics track. This passion led me to select electrical engineering for my undergraduate studies at the University of Tehran, Iran's premier institution.
